@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class MinMaxCalculation {
     private ArrayList<Double> data;
     public MinMaxCalculation(ArrayList<Double> data) {
